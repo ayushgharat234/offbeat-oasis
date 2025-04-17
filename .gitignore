@@ -1,0 +1,27 @@
+# Jupyter-related
+.ipynb_checkpoints/
+.virtual_documents/
+
+# VS Code or IDEs
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+
+# DVC and Data
+.dvc/
+data/
+
+# Env
+travel_recommender_env/
+
+# Misc
+.DS_Store
+*.log
+
+# Ignore virtual environment
+travel_recommender_env/
