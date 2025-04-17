@@ -12,10 +12,6 @@ __pycache__/
 *.egg
 *.egg-info/
 
-# DVC and Data
-.dvc/
-data/
-
 # Env
 travel_recommender_env/
 
