@@ -1,0 +1,67 @@
+location_id,location_name,state,category,activities,places,num_activities,num_places
+1,Chitkul,Himachal Pradesh,remote_nature,"trek the charang chitkul pass, enjoy baspa river front view, make a wish with 7 pebbles ritual, explore sangla meadows, learn wood carving at tibetan wood carving centre, experience rakcham landscapes","mathi temple,kagyupa temple,kamru fort,bering nag temple, buddhist monastery (brelengi gompa),tibetan wood carving centre,rakcham village,sangla meadows",6,8
+2,Landour,Uttarakhand,remote_nature,"char dukan, landour bakehouse, lal tibba, chukker trail, st. paul's church","char dukaan,landour bakehouse,lal tibba,st. paul's church,jabarkhet nature reserve",5,5
+3,Gurez Valley,Jammu And Kashmir,remote_nature,"shikara ride on dal lake,gulmarg gondola ride,trekking and hiking,skiing and snowboarding","srinagar,gulmarg,pahalgam,sonamarg, vaishno devi temple (katra)",4,5
+4,Shojha,Himachal Pradesh,remote_nature,"trekking to jalori pass,visiting serolsar lake,exploring the great himalayan national park,trekking to raghupur fort,visiting waterfall point/jibhi waterfall","jalori pass,waterfall point,serolsar lake,tirthan valley,raghupur fort",5,5
+5,Pangong Tso West Bank Villages,Ladakh,remote_nature,"river rafting, trekking, go on a camel safari in nubra valley,visit monasteries, wildlife spotting","shanti stupa, thiksey monastery,pangong tso,nubra valley,leh palace",5,5
+6,Kalpa,Himachal Pradesh,remote_nature,"trekking to chakka,
+shopping for handicrafts,
+camping and hiking,
+jeep safari,
+exploring roghi village","kinnaur kailash,kothi village,suicide point,narayan-nagini temple,hu-bu-lan-kar monastery",5,5
+7,Munsiyari,Uttarakhand,remote_nature,"trekking,
+visit khaliya top,
+explore tribal heritage museum,
+visit birthi falls,
+enjoy panoramic views of panchachuli peaks","khaliya top,panchchuli peaks,thamri kund,nanda devi temple,tribal museum",5,5
+8,Tirthan Valley,Himachal Pradesh,remote_nature,"trekking at the great himalayan national park,
+fishing in the tirthan river,
+exploring jalori pass,
+camping,
+visiting serlosar lake","great himalayan national park, jibhi village, serolsar lake, and the tirthan river",5,4
+9,Naukuchiatal,Uttarakhand,remote_nature,"explore surrounding hills, boating, trekking,paragliding,ziplining,shikara ride,scuba diving","devbhumi adventure park,hanuman temple,bhalu gaad waterfall, butterfly research centre,escape festival in may",7,5
+10,Shekhawati Region,Rajasthan,local_getaway,"horseback riding,desert safaris, camel polo,stargazing","sikar,churu,badalgarh fort, laxmangarh fort,mandawa",4,5
+11,Chopta-Tungnath-Chandrashila,Uttarakhand,remote_nature_religious,"trekking, camping, bird watching,yoga and meditation,photography,rock climbing, cycling in chopta","tungnath temple,chandrashila peak,chopta meadows,sari village,kanchula korak musk deer sanctuary",7,5
+12,Losar,Himachal Pradesh,remote_nature,"cultural experiences, daily prayers,participate in the losar festiva","kunzum pass,chandratal lake,key monastery,spiti valley,langza",3,5
+13,Gandikota,Andhra Pradesh,local_getaway,"walk through the ruins,ancient caves,water sports activities,boating at the boat club,holi dip in pushkarini","pennar gorge,gandikota fort,belum caves,yaganti temple,owk reservoir,mylavaram dam",5,6
+14,Dhanushkodi,Tamil Nadu,beach_retreat,"photography,boat ride,visit beach, visit the dhanushkodi lighthouse,bird watching","dhanushkodi beach, gulf of mannar marine national park,pamban island,adam's bridge",5,4
+15,Athirappilly And Vazhachal Waterfalls,Kerala,remote_nature,"picnicking,photography,nature walks,bamboo rafting,dream world water park","athirappilly falls,vazhachal falls,thumboormuzhi dam & garden, munakkal beach",5,4
+16,Hampi'S Lesser-Known Ruins,Karnataka,local_getaway,"bouldering,rent a scooter and explore the small villages north of hampi,hike up to anjanadri hill for sunrise,swim in the tungabhadra river","hazara rama, matanga hill,hampi bazaar,tungabhadra river",4,4
+17,Coorg'S Offbeat Trails And Villages,Karnataka,remote_nature,"barapole river rafting,tadiandamol trek,plantation walks, explore somwarpet","namdroling monastery,chelavara falls,honey valley,kumara parvatha",4,4
+18,Poovar Island,Kerala,beach_retreat,"trekking, sightseeing, fishing",,3,1
+19,Valparai,Tamil Nadu,remote_nature,"cycling, adventure sports, rafting, relaxation","birla waterfalls, grass hills national park, tea estate garden, nirar dam, and the anaimalai tiger reserve",4,5
+20,Araku Valley,Andhra Pradesh,remote_nature,relaxation,"borra caves, tribal museum, chaparai waterfalls, and padmapuram botanical gardens",1,4
+21,Thenmala,Kerala,remote_nature,"water sports, nature walks, cultural immersion, ziplining, trekking","thenmala dam, shendurney wildlife sanctuary, aryankavu shastha temple, butterfly safari park, chenduruny wildlife sanctuary, suspension bridge, pathimoonnu kannara bridge",5,7
+22,Lepakshi,Andhra Pradesh,local_getaway,"relaxation, cultural immersion","veerabhadra swamy temple, lepakshi nandi temple, bhoga nandeeshwara temple, nangaliga, lepakshi jataayu",2,5
+23,Kudremukh,Karnataka,remote_nature,"adventure sports, relaxation","hanumana gundi falls, kalasa, sirimane falls",2,3
+24,Meghamalai,Tamil Nadu,remote_nature,"adventure sports, photography, boating","chinna suruli waterfalls, murugan and mangaladevi temples",3,2
+25,Bhandardara,Maharashtra,remote_nature,"historical exploration, bird watching, water sports","umbrella falls, wilson dam, kalsubai peak",3,3
+26,Diu Island (Quieter Beaches),Gujarat,beach_retreat,"cultural immersion, rafting","gangeshwar temple, diu fort",2,2
+27,Mount Abu'S Offbeat Trails,Rajasthan,remote_nature,"cycling, boating, star gazing, historical exploration, wildlife","delwada temple, sunset point, toad rock, nakki lake, achalgarh fort, arbuda devi temple",5,6
+28,Kachchh,Gujarat,local_getaway,"yoga, cycling, sightseeing","aaina mahal, prag mahal, kalo dungar, vijay villas palace",3,4
+29,Malshej Ghat,Maharashtra,remote_nature,"bird watching, meditation, star gazing, cycling, relaxation","shivneri fort, naneghat, harishchandragad, girijatmaka temple",5,4
+30,Saputara,Gujarat,remote_nature,"water sports, historical exploration","saputara hill station, saputara lake, step garden",2,3
+31,Lonar Crater Lake,Maharashtra,local_getaway,trekking,"chalukya style shri daitya sudan temple, gomukh temple, lonar lake sarovar, kamalja devi temple,",1,5
+32,Jawhar,Maharashtra,remote_nature,"nature walks, water sports, boating","hanuman point, shirpamal, khadkhad dam, dabhosa waterhalls, jawhar palace",3,5
+33,Champaner-Pavagadh Archaeological Park (Lesser-Visited Sections),Gujarat,local_religious,"fishing, mounting climbing, trekking","pavagadh hill,  jami masjid, pavagadh fort,  maa mahakalika temple,",3,5
+34,Tarkarli,Maharashtra,beach_retreat,"ziplining, yoga, water sports","tarkarli beach, sindhudurg fort, devbagh beach",3,3
+35,Polo Forest,Gujarat,remote_nature,"trekking, historical visit , nature visit","sarneshwar temple, vanaj dam, ancient shiva temple, jain temple ruins, harnav river",3,5
+36,Amboli,Maharashtra,remote_nature,"cycling, fishing, relaxation, bird watching, wildlife safari","amboli falls, madhavgad fort, shirgaonkar point, harinya keshi temple",5,4
+37,Pachmarhi,Madhya Pradesh,remote_nature,"meditation, rafting, water sports","jatashankar temple, shri panch pandav caves, bee falls, handi khoh, bison lodge museum",3,5
+38,Orchha,Madhya Pradesh,local_getaway,"boating, historical exploration, nature walks, water activities, cultural immersion","jehangir fort, ram raja temple, river betwa",5,3
+39,Khajuraho,Madhya Pradesh,local_getaway,"yoga, cultural immersion, cycling","beni sagar dam, khajuraho light and sound show, jain museum, raneh fall, dhubela museum",3,5
+40,Bhedaghat (Beyond The Marble Rocks),Madhya Pradesh,remote_nature,"trekking, historical exploration, cultural immersion","dhuandhar falls, chausath yogini temple, ghughra waterfall, bhedaghat boating point",3,4
+41,Mandu,Madhya Pradesh,local_getaway,"meditation, bird watching, yoga, camping","nilkanth mahadev temple, hathi mahal, kakra khoh waterfall",4,3
+42,Kanha National Park'S Buffer Zones,Madhya Pradesh,remote_nature,"sightseeing, water sports","nature trails and village visits, khatia, khapa and phen zone",2,3
+43,Ziro Valley,Arunachal Pradesh,remote_nature,"rafting, meditation","tarin fish farm, siikhe lake, pine grove (myolyang), meghna cave temple",2,4
+44,Mawlynnong,Meghalaya,remote_nature,"historical exploration, yoga, cycling","mawsmai cave, roots bridges, waterfall, church of epiphany",3,4
+45,Champhai,Mizoram,remote_nature,historical exploration,"thasiama seno neihna, rih dil lake, lengteng wildlife sanctuary, kungawrhi puk (cave)",1,4
+46,Tawang,Arunachal Pradesh,remote_nature_religious,"photography, boating, fishing, historical exploration, water activities","sela and bumla pass, nuranang falls, war memorial, buddhist monastery",5,4
+47,Jaldapara National Park,West Bengal,remote_nature,"wildlife safari, bird watching, trekking, orchads","cooch behar palace, tea estate, buxa tiger reserve",4,3
+48,Daringbadi,Odisha,remote_nature,"historical exploration, wildlife safari, hot spring, mediinal and other plant orchads, water activities","belghar wildlife sanctuary, daringbadi waterfalls,  kalinga ghat, spice gardens, taptapani",5,5
+49,Pelling,Sikkim,remote_nature_religious,"historical exploration, cultural immersion, bird watching, fruit garden visits","kanchenjunga fall, rabdentse ruins, singshore bridge, chenrezig statue and glass skywalk, rimbi orange garden, sidkeong tulku bird park",4,6
+50,Unakoti,Tripura,religious_retreat,"trekking, rock carving, historical and temple visit","bharatrini mandir, chaturdas devata mandir, unkoti heritage site",3,3
+51,Majuli Island,Assam,remote_nature_religious,"cultural immersion, bitchwatching, ferry riding, cycling","kamalari satra  temple, dakhin satra temple, tengapania temple",4,3
+52,Sandakphu-Phalut Trek (Less Crowded Sections),West Bengal,remote_nature,"fishing, mounting climbing, trekking",,3,1
+53,Mokokchung,Nagaland,remote_nature,"cultural immersion, trekking, cave exploration, boating","longkum, ungma village, changkikong range, langpangkong caves",4,4
+54,Haflong,Assam,remote_nature,"orchid and orchad visits , yoga, cycling, bird watching and suicides, cultural immersion","haflong lake, panimoor lake, orchid garden, borail wildlife sactuary",5,4

@@ -1,0 +1,55 @@
+user_id,occupation,location_type,budget_under_25k,budget_above_100k,budget_25k_to_50k,budget_50k_to_100k
+1,Student,Urban (metro city),False,False,True,False
+2,Student,Urban (metro city),False,False,False,True
+3,Student,Urban (metro city),True,False,False,False
+4,Student,Urban (metro city),False,False,False,True
+5,Student,Urban (metro city),True,False,False,False
+6,Student,Urban (metro city),True,False,False,False
+7,Working professional,Urban (metro city),False,True,False,False
+8,Student,Urban (metro city),True,False,False,False
+9,Working professional,Urban (metro city),False,False,True,False
+10,Entrepreneur / Business owner,Urban (metro city),True,False,False,False
+11,Student,Urban (metro city),False,False,False,True
+12,Student,Urban (metro city),True,False,False,False
+13,Working professional,Urban (metro city),False,False,True,False
+14,Student,Urban (metro city),True,False,False,False
+15,Working professional,Urban (metro city),False,False,True,False
+16,Working professional,Urban (metro city),False,False,True,False
+17,Student,Rural,False,False,True,False
+18,Student,Rural,True,False,False,False
+19,Student,Urban (metro city),False,False,True,False
+20,Student,Suburban,True,False,False,False
+21,Student,Urban (metro city),False,False,True,False
+22,Student,Urban (metro city),True,False,False,False
+23,Student,Suburban,True,False,False,False
+24,Student,Urban (metro city),False,False,False,True
+25,Student,Urban (metro city),False,False,True,False
+26,Student,Suburban,True,False,False,False
+27,Student,Suburban,True,False,False,False
+28,Student,Urban (metro city),True,False,False,False
+29,Student,Urban (metro city),False,False,True,False
+30,Student,Urban (metro city),True,False,False,False
+31,Student,Suburban,True,False,False,False
+32,Student,Urban (metro city),False,True,False,False
+33,Student,Urban (metro city),True,False,False,False
+34,Student,Urban (metro city),True,False,False,False
+35,Working professional,Urban (metro city),True,False,False,False
+36,Working professional,Suburban,False,False,True,False
+37,Student,Suburban,True,False,False,False
+38,Student,Urban (metro city),False,False,False,True
+39,Student,Urban (metro city),True,False,False,False
+40,Working professional,Urban (metro city),False,False,False,True
+41,Student,Suburban,False,True,False,False
+42,Student,Urban (metro city),False,False,True,False
+43,Student,Urban (metro city),False,False,True,False
+44,Student,Urban (metro city),False,False,False,True
+45,Student,Urban (metro city),False,False,True,False
+46,Student,Urban (metro city),True,False,False,False
+47,Working professional,Rural,True,False,False,False
+48,Working professional,Rural,True,False,False,False
+49,Working professional,Rural,False,False,True,False
+50,Working professional,Rural,True,False,False,False
+51,Working professional,Rural,False,False,True,False
+52,Other,Rural,False,True,False,False
+53,Working professional,Rural,True,False,False,False
+54,Entrepreneur / Business owner,Rural,False,False,False,True

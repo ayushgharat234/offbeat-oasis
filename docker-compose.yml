@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  travel-recommender:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: travel_recommender_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app:/app/src
+    restart: unless-stopped
