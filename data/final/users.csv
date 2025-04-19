@@ -53,3 +53,249 @@ user_id,occupation,location_type,budget_under_25k,budget_above_100k,budget_25k_t
 52,Other,Rural,False,True,False,False
 53,Working professional,Rural,True,False,False,False
 54,Entrepreneur / Business owner,Rural,False,False,False,True
+55,Working professional,Urban (metro city),False,False,False,True
+56,Student,Suburban,False,False,True,False
+57,Working professional,Rural,False,True,False,False
+58,Student,Urban (metro city),True,False,False,False
+59,Entrepreneur / Business owner,Suburban,False,False,True,False
+60,Other,Urban (metro city),False,False,False,True
+61,Working professional,Rural,True,False,False,False
+62,Student,Suburban,False,False,False,True
+63,Working professional,Urban (metro city),False,True,False,False
+64,Student,Rural,True,False,False,False
+65,Other,Suburban,False,False,True,False
+66,Working professional,Urban (metro city),True,False,False,False
+67,Student,Rural,False,False,False,True
+68,Entrepreneur / Business owner,Urban (metro city),False,True,False,False
+69,Working professional,Suburban,True,False,False,False
+70,Student,Urban (metro city),False,False,True,False
+71,Other,Rural,True,False,False,False
+72,Working professional,Suburban,False,False,False,True
+73,Student,Urban (metro city),True,False,False,False
+74,Entrepreneur / Business owner,Rural,False,False,True,False
+75,Other,Suburban,True,False,False,False
+76,Working professional,Urban (metro city),False,False,False,True
+77,Student,Rural,False,True,False,False
+78,Entrepreneur / Business owner,Suburban,True,False,False,False
+79,Other,Urban (metro city),False,False,True,False
+80,Working professional,Rural,True,False,False,False
+81,Student,Suburban,False,False,False,True
+82,Entrepreneur / Business owner,Urban (metro city),False,True,False,False
+83,Other,Rural,True,False,False,False
+84,Working professional,Suburban,False,False,True,False
+85,Student,Urban (metro city),True,False,False,False
+86,Entrepreneur / Business owner,Rural,False,False,False,True
+87,Other,Suburban,True,False,False,False
+88,Working professional,Urban (metro city),False,True,False,False
+89,Student,Rural,True,False,False,False
+90,Entrepreneur / Business owner,Suburban,False,False,True,False
+91,Other,Urban (metro city),False,False,False,True
+92,Working professional,Rural,True,False,False,False
+93,Student,Suburban,False,False,False,True
+94,Entrepreneur / Business owner,Urban (metro city),False,True,False,False
+95,Other,Rural,True,False,False,False
+96,Working professional,Suburban,False,False,True,False
+97,Student,Urban (metro city),True,False,False,False
+98,Entrepreneur / Business owner,Rural,False,False,False,True
+99,Other,Suburban,True,False,False,False
+100,Working professional,Urban (metro city),False,True,False,False
+101,Working professional,Suburban,True,False,False,False
+102,Student,Rural,False,False,True,False
+103,Entrepreneur / Business owner,Urban (metro city),False,False,False,True
+104,Other,Suburban,True,False,False,False
+105,Working professional,Rural,False,True,False,False
+106,Student,Urban (metro city),True,False,False,False
+107,Entrepreneur / Business owner,Suburban,False,False,True,False
+108,Other,Rural,True,False,False,False
+109,Working professional,Urban (metro city),True,False,False,False
+110,Student,Suburban,False,True,False,False
+111,Entrepreneur / Business owner,Rural,True,False,False,False
+112,Other,Suburban,False,False,True,False
+113,Working professional,Urban (metro city),False,False,False,True
+114,Student,Rural,True,False,False,False
+115,Entrepreneur / Business owner,Suburban,False,True,False,False
+116,Other,Rural,True,False,False,False
+117,Working professional,Urban (metro city),True,False,False,False
+118,Student,Suburban,False,False,True,False
+119,Entrepreneur / Business owner,Rural,True,False,False,False
+120,Other,Suburban,False,True,False,False
+121,Working professional,Urban (metro city),False,False,True,False
+122,Student,Rural,True,False,False,False
+123,Entrepreneur / Business owner,Suburban,False,False,False,True
+124,Other,Rural,True,False,False,False
+125,Working professional,Urban (metro city),True,False,False,False
+126,Student,Suburban,False,False,True,False
+127,Entrepreneur / Business owner,Rural,True,False,False,False
+128,Other,Suburban,False,False,False,True
+129,Working professional,Urban (metro city),False,True,False,False
+130,Student,Rural,True,False,False,False
+131,Entrepreneur / Business owner,Suburban,False,False,True,False
+132,Other,Rural,True,False,False,False
+133,Working professional,Urban (metro city),True,False,False,False
+134,Student,Suburban,False,True,False,False
+135,Entrepreneur / Business owner,Rural,True,False,False,False
+136,Other,Suburban,False,False,True,False
+137,Working professional,Urban (metro city),False,False,True,False
+138,Student,Rural,True,False,False,False
+139,Entrepreneur / Business owner,Suburban,False,True,False,False
+140,Other,Rural,True,False,False,False
+141,Working professional,Urban (metro city),True,False,False,False
+142,Student,Suburban,False,False,True,False
+143,Entrepreneur / Business owner,Rural,True,False,False,False
+144,Other,Suburban,False,True,False,False
+145,Working professional,Urban (metro city),False,True,False,False
+146,Student,Rural,True,False,False,False
+147,Entrepreneur / Business owner,Suburban,False,False,True,False
+148,Other,Rural,True,False,False,False
+149,Working professional,Urban (metro city),True,False,False,False
+150,Student,Suburban,False,True,False,False
+151,Entrepreneur / Business owner,Rural,True,False,False,False
+152,Other,Suburban,False,False,True,False
+153,Working professional,Urban (metro city),False,False,True,False
+154,Student,Rural,True,False,False,False
+155,Entrepreneur / Business owner,Suburban,False,True,False,False
+156,Other,Rural,True,False,False,False
+157,Working professional,Urban (metro city),True,False,False,False
+158,Student,Suburban,False,False,True,False
+159,Entrepreneur / Business owner,Rural,True,False,False,False
+160,Other,Suburban,False,True,False,False
+161,Working professional,Urban (metro city),False,True,False,False
+162,Student,Rural,True,False,False,False
+163,Entrepreneur / Business owner,Suburban,False,False,True,False
+164,Other,Rural,True,False,False,False
+165,Working professional,Urban (metro city),True,False,False,False
+166,Student,Suburban,False,True,False,False
+167,Entrepreneur / Business owner,Rural,True,False,False,False
+168,Other,Suburban,False,False,True,False
+169,Working professional,Urban (metro city),False,False,True,False
+170,Student,Rural,True,False,False,False
+171,Entrepreneur / Business owner,Suburban,False,True,False,False
+172,Other,Rural,True,False,False,False
+173,Working professional,Urban (metro city),True,False,False,False
+174,Student,Suburban,False,False,True,False
+175,Entrepreneur / Business owner,Rural,True,False,False,False
+176,Other,Suburban,False,True,False,False
+177,Working professional,Urban (metro city),False,True,False,False
+178,Student,Rural,True,False,False,False
+179,Entrepreneur / Business owner,Suburban,False,False,True,False
+180,Other,Rural,True,False,False,False
+181,Working professional,Urban (metro city),True,False,False,False
+182,Student,Suburban,False,True,False,False
+183,Entrepreneur / Business owner,Rural,True,False,False,False
+184,Other,Suburban,False,False,True,False
+185,Working professional,Urban (metro city),False,False,True,False
+186,Student,Rural,True,False,False,False
+187,Entrepreneur / Business owner,Suburban,False,True,False,False
+188,Other,Rural,True,False,False,False
+189,Working professional,Urban (metro city),True,False,False,False
+190,Student,Suburban,False,False,True,False
+191,Entrepreneur / Business owner,Rural,True,False,False,False
+192,Other,Suburban,False,True,False,False
+193,Working professional,Urban (metro city),False,True,False,False
+194,Student,Rural,True,False,False,False
+195,Entrepreneur / Business owner,Suburban,False,False,True,False
+196,Other,Rural,True,False,False,False
+197,Working professional,Urban (metro city),True,False,False,False
+198,Student,Suburban,False,True,False,False
+199,Entrepreneur / Business owner,Rural,True,False,False,False
+200,Other,Suburban,False,False,True,False
+201,Working professional,Urban (metro city),False,False,True,False
+202,Student,Rural,True,False,False,False
+203,Entrepreneur / Business owner,Suburban,False,True,False,False
+204,Other,Rural,True,False,False,False
+205,Working professional,Urban (metro city),True,False,False,False
+206,Student,Suburban,False,False,True,False
+207,Entrepreneur / Business owner,Rural,True,False,False,False
+208,Other,Suburban,False,True,False,False
+209,Working professional,Urban (metro city),False,True,False,False
+210,Student,Rural,True,False,False,False
+211,Entrepreneur / Business owner,Suburban,False,False,True,False
+212,Other,Rural,True,False,False,False
+213,Working professional,Urban (metro city),True,False,False,False
+214,Student,Suburban,False,False,True,False
+215,Entrepreneur / Business owner,Rural,True,False,False,False
+216,Other,Suburban,False,True,False,False
+217,Working professional,Urban (metro city),False,True,False,False
+218,Student,Rural,True,False,False,False
+219,Entrepreneur / Business owner,Suburban,False,False,True,False
+220,Other,Rural,True,False,False,False
+221,Working professional,Urban (metro city),True,False,False,False
+222,Student,Suburban,False,True,False,False
+223,Entrepreneur / Business owner,Rural,True,False,False,False
+224,Other,Suburban,False,False,True,False
+225,Working professional,Urban (metro city),False,False,True,False
+226,Student,Rural,True,False,False,False
+227,Entrepreneur / Business owner,Suburban,False,True,False,False
+228,Other,Rural,True,False,False,False
+229,Working professional,Urban (metro city),True,False,False,False
+230,Student,Suburban,False,False,True,False
+231,Entrepreneur / Business owner,Rural,True,False,False,False
+232,Other,Suburban,False,True,False,False
+233,Working professional,Urban (metro city),False,True,False,False
+234,Student,Rural,True,False,False,False
+235,Entrepreneur / Business owner,Suburban,False,False,True,False
+236,Other,Rural,True,False,False,False
+237,Working professional,Urban (metro city),True,False,False,False
+238,Student,Suburban,False,True,False,False
+239,Entrepreneur / Business owner,Rural,True,False,False,False
+240,Other,Suburban,False,False,True,False
+241,Working professional,Urban (metro city),False,False,True,False
+242,Student,Rural,True,False,False,False
+243,Entrepreneur / Business owner,Suburban,False,True,False,False
+244,Other,Rural,True,False,False,False
+245,Working professional,Urban (metro city),True,False,False,False
+246,Student,Suburban,False,False,True,False
+247,Entrepreneur / Business owner,Rural,True,False,False,False
+248,Other,Suburban,False,True,False,False
+249,Working professional,Urban (metro city),False,True,False,False
+250,Student,Rural,True,False,False,False
+251,Entrepreneur / Business owner,Suburban,False,False,True,False
+252,Other,Rural,True,False,False,False
+253,Working professional,Urban (metro city),True,False,False,False
+254,Student,Suburban,False,False,True,False
+255,Entrepreneur / Business owner,Rural,True,False,False,False
+256,Other,Suburban,False,True,False,False
+257,Working professional,Urban (metro city),False,True,False,False
+258,Student,Rural,True,False,False,False
+259,Entrepreneur / Business owner,Suburban,False,False,True,False
+260,Other,Rural,True,False,False,False
+261,Working professional,Urban (metro city),True,False,False,False
+262,Student,Suburban,False,True,False,False
+263,Entrepreneur / Business owner,Rural,True,False,False,False
+264,Other,Suburban,False,False,True,False
+265,Working professional,Urban (metro city),False,False,True,False
+266,Student,Rural,True,False,False,False
+267,Entrepreneur / Business owner,Suburban,False,True,False,False
+268,Other,Rural,True,False,False,False
+269,Working professional,Urban (metro city),True,False,False,False
+270,Student,Suburban,False,False,True,False
+271,Entrepreneur / Business owner,Rural,True,False,False,False
+272,Other,Suburban,False,True,False,False
+273,Working professional,Urban (metro city),False,True,False,False
+274,Student,Rural,True,False,False,False
+275,Entrepreneur / Business owner,Suburban,False,False,True,False
+276,Other,Rural,True,False,False,False
+277,Working professional,Urban (metro city),True,False,False,False
+278,Student,Suburban,False,True,False,False
+279,Entrepreneur / Business owner,Rural,True,False,False,False
+280,Other,Suburban,False,False,True,False
+281,Working professional,Urban (metro city),False,False,True,False
+282,Student,Rural,True,False,False,False
+283,Entrepreneur / Business owner,Suburban,False,True,False,False
+284,Other,Rural,True,False,False,False
+285,Working professional,Urban (metro city),True,False,False,False
+286,Student,Suburban,False,False,True,False
+287,Entrepreneur / Business owner,Rural,True,False,False,False
+288,Other,Suburban,False,True,False,False
+289,Working professional,Urban (metro city),False,True,False,False
+290,Student,Rural,True,False,False,False
+291,Entrepreneur / Business owner,Suburban,False,False,True,False
+292,Other,Rural,True,False,False,False
+293,Working professional,Urban (metro city),True,False,False,False
+294,Student,Suburban,False,True,False,False
+295,Entrepreneur / Business owner,Rural,True,False,False,False
+296,Other,Suburban,False,False,True,False
+297,Working professional,Urban (metro city),False,False,True,False
+298,Student,Rural,True,False,False,False
+299,Entrepreneur / Business owner,Suburban,False,True,False,False
+300,Other,Rural,True,False,False,False

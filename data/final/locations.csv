@@ -4,21 +4,9 @@ location_id,location_name,state,category,activities,places,num_activities,num_pl
 3,Gurez Valley,Jammu And Kashmir,remote_nature,"shikara ride on dal lake,gulmarg gondola ride,trekking and hiking,skiing and snowboarding","srinagar,gulmarg,pahalgam,sonamarg, vaishno devi temple (katra)",4,5
 4,Shojha,Himachal Pradesh,remote_nature,"trekking to jalori pass,visiting serolsar lake,exploring the great himalayan national park,trekking to raghupur fort,visiting waterfall point/jibhi waterfall","jalori pass,waterfall point,serolsar lake,tirthan valley,raghupur fort",5,5
 5,Pangong Tso West Bank Villages,Ladakh,remote_nature,"river rafting, trekking, go on a camel safari in nubra valley,visit monasteries, wildlife spotting","shanti stupa, thiksey monastery,pangong tso,nubra valley,leh palace",5,5
-6,Kalpa,Himachal Pradesh,remote_nature,"trekking to chakka,
-shopping for handicrafts,
-camping and hiking,
-jeep safari,
-exploring roghi village","kinnaur kailash,kothi village,suicide point,narayan-nagini temple,hu-bu-lan-kar monastery",5,5
-7,Munsiyari,Uttarakhand,remote_nature,"trekking,
-visit khaliya top,
-explore tribal heritage museum,
-visit birthi falls,
-enjoy panoramic views of panchachuli peaks","khaliya top,panchchuli peaks,thamri kund,nanda devi temple,tribal museum",5,5
-8,Tirthan Valley,Himachal Pradesh,remote_nature,"trekking at the great himalayan national park,
-fishing in the tirthan river,
-exploring jalori pass,
-camping,
-visiting serlosar lake","great himalayan national park, jibhi village, serolsar lake, and the tirthan river",5,4
+6,Kalpa,Himachal Pradesh,remote_nature,"trekking to chakka,shopping for handicrafts,camping and hiking,jeep safari,exploring roghi village","kinnaur kailash,kothi village,suicide point,narayan-nagini temple,hu-bu-lan-kar monastery",5,5
+7,Munsiyari,Uttarakhand,remote_nature,"trekking,visit khaliya top,explore tribal heritage museum,visit birthi falls,enjoy panoramic views of panchachuli peaks","khaliya top,panchchuli peaks,thamri kund,nanda devi temple,tribal museum",5,5
+8,Tirthan Valley,Himachal Pradesh,remote_nature,"trekking at the great himalayan national park,fishing in the tirthan river,exploring jalori pass,camping,visiting serlosar lake","great himalayan national park, jibhi village, serolsar lake, and the tirthan river",5,4
 9,Naukuchiatal,Uttarakhand,remote_nature,"explore surrounding hills, boating, trekking,paragliding,ziplining,shikara ride,scuba diving","devbhumi adventure park,hanuman temple,bhalu gaad waterfall, butterfly research centre,escape festival in may",7,5
 10,Shekhawati Region,Rajasthan,local_getaway,"horseback riding,desert safaris, camel polo,stargazing","sikar,churu,badalgarh fort, laxmangarh fort,mandawa",4,5
 11,Chopta-Tungnath-Chandrashila,Uttarakhand,remote_nature_religious,"trekking, camping, bird watching,yoga and meditation,photography,rock climbing, cycling in chopta","tungnath temple,chandrashila peak,chopta meadows,sari village,kanchula korak musk deer sanctuary",7,5
@@ -55,7 +43,7 @@ visiting serlosar lake","great himalayan national park, jibhi village, serolsar 
 42,Kanha National Park'S Buffer Zones,Madhya Pradesh,remote_nature,"sightseeing, water sports","nature trails and village visits, khatia, khapa and phen zone",2,3
 43,Ziro Valley,Arunachal Pradesh,remote_nature,"rafting, meditation","tarin fish farm, siikhe lake, pine grove (myolyang), meghna cave temple",2,4
 44,Mawlynnong,Meghalaya,remote_nature,"historical exploration, yoga, cycling","mawsmai cave, roots bridges, waterfall, church of epiphany",3,4
-45,Champhai,Mizoram,remote_nature,historical exploration,"thasiama seno neihna, rih dil lake, lengteng wildlife sanctuary, kungawrhi puk (cave)",1,4
+45,Champhai,Mizoram,remote_nature,"historical exploration","thasiama seno neihna, rih dil lake, lengteng wildlife sanctuary, kungawrhi puk (cave)",1,4
 46,Tawang,Arunachal Pradesh,remote_nature_religious,"photography, boating, fishing, historical exploration, water activities","sela and bumla pass, nuranang falls, war memorial, buddhist monastery",5,4
 47,Jaldapara National Park,West Bengal,remote_nature,"wildlife safari, bird watching, trekking, orchads","cooch behar palace, tea estate, buxa tiger reserve",4,3
 48,Daringbadi,Odisha,remote_nature,"historical exploration, wildlife safari, hot spring, mediinal and other plant orchads, water activities","belghar wildlife sanctuary, daringbadi waterfalls,  kalinga ghat, spice gardens, taptapani",5,5
@@ -65,3 +53,124 @@ visiting serlosar lake","great himalayan national park, jibhi village, serolsar 
 52,Sandakphu-Phalut Trek (Less Crowded Sections),West Bengal,remote_nature,"fishing, mounting climbing, trekking",,3,1
 53,Mokokchung,Nagaland,remote_nature,"cultural immersion, trekking, cave exploration, boating","longkum, ungma village, changkikong range, langpangkong caves",4,4
 54,Haflong,Assam,remote_nature,"orchid and orchad visits , yoga, cycling, bird watching and suicides, cultural immersion","haflong lake, panimoor lake, orchid garden, borail wildlife sactuary",5,4
+55,Valmiki Nagar,Bihar,wildlife_ecotourism,"valmiki tiger reserve jungle safari, canoeing in gandak river, bird watching","valmiki ashram, someshwar fort, gandak barrage",3,3
+56,Kaimur Hills,Bihar,adventure_hiking,"rock climbing, hiking in kaimur range, tribal culture exploration","telhar waterfall, mundeshwari temple, kaimur wildlife sanctuary",3,3
+57,Mainpat,Chhattisgarh,tribal_retreat,"paragliding, tibetan culture tour, waterfall hopping","tiger point, mehta point, dharohar museum",3,3
+58,Barnawapara,Chhattisgarh,wildlife_ecotourism,"jeep safari, bird watching, nature walk","barnawapara wildlife sanctuary, bar nal dam",3,2
+59,Chorla Ghats,Goa,eco_adventure,"trekking, herping trails, bird photography","mhadei wildlife sanctuary, lasni tembi, swapnagandha valley",3,3
+60,Divar Island,Goa,cultural_escape,"bicycle tours, fishing, local village interaction","our lady of compassion church, divar ferry, bonderam festival",3,3
+61,Morni Hills,Haryana,hill_station_trails,"boating, trekking, zip-lining","tikkar tal, morni fort, gurudwara nada sahib",3,3
+62,Kalesar Forest,Haryana,wildlife_ecotourism,"jeep safari, camping, nature trails","kalesar national park, yamuna river stretch",3,2
+63,Netarhat,Jharkhand,tribal_highlands,"sunset point trek, nature photography, tribal craft visits","koel viewpoint, upper ghaghri falls",3,2
+64,Parasnath Hills,Jharkhand,spiritual_trekking,"pilgrimage hike, meditation, temple architecture study","shikharji temples, madhuban village",3,2
+65,Loktak Lake,Manipur,eco_living,"canoe ride, floating huts stay, birdwatching","keibul lamjao park, sendra island",3,2
+66,Ukhrul,Manipur,tribal_experience,"trek to shirui hills, local cuisine sampling, orchid hunting","shirui lily peak, tangkhul cultural museum",3,2
+67,Mawlynnong,Meghalaya,eco_village,"living root bridge walk, bamboo sky tower, clean village tour","mawlynnong village, dawki river",3,2
+68,Nongriat,Meghalaya,nature_trails,"trekking to double decker bridges, natural pools","double decker living root bridge, rainbow falls",2,2
+69,Reiek,Mizoram,cultural_mountain,"trekking, traditional mizo house visit, panoramic viewpoints","reiek heritage village, viewpoint summit",3,2
+70,Hmuifang,Mizoram,eco_adventure,"forest walk, cultural dance performances, camping","hmuifang peak, tlangnuam forest trail",3,2
+71,Khonoma,Nagaland,warrior_village,"heritage walk, eco-tourism, birdwatching","khonoma village gate, terraces, fort site",3,3
+72,Mokokchung,Nagaland,tribal_township,"ao naga culture immersion, trekking, local cuisine","longkhum village, district museum",3,2
+73,Satkosia Gorge,Odisha,wildlife_riverine,"river cruise, crocodile watching, jungle walk","satkosia tiger reserve, mahanadi gorge",3,2
+74,Daringbadi,Odisha,hill_station,"coffee plantation tour, pine forest hike, tribal crafts","hill viewpoint, butterfly park",3,2
+75,Ropar Wetlands,Punjab,eco_birdwatching,"bird photography, nature walk, canoeing","rupnagar wetland sanctuary, indus site",3,2
+76,Anandpur Sahib Hills,Punjab,spiritual_trek,"sikh culture walk, fort visit, hillside meditation","takht sri kesgarh sahib, virasat-e-khalsa",3,2
+77,Dzongu Valley,Sikkim,tribal_reserve,"monastery visit, traditional lepcha house stay, hiking","hee-gyathang lake, lingthem viewpoint",3,2
+78,Yuksom,Sikkim,history_nature,"trekking to kanchenjunga base trail, buddhist monastery tour","dubdi monastery, coronation throne",2,2
+79,Bogatha Falls,Telangana,hidden_waterfalls,"trekking, photography, waterfall bathing","bogatha waterfall, cheekupally bridge",3,2
+80,Medak Fort,Telangana,heritage_exploration,"fort climb, photography, nearby temple visit","medak fort, medak church",3,2
+81,Jampui Hills,Tripura,panoramic_escape,"sunrise view, orange orchard visit, tribal village walk","vhangmun village, beltingchhip peak",3,2
+82,Unakoti,Tripura,rock_carvings,"heritage walk, photography, legend storytelling","unakoti sculptures, shiva rock reliefs",3,2
+83,Chitrakoot,Uttar Pradesh,spiritual_escape,"temple tour, ramghat walk, boating","gupt godavari, kamadgiri hill",3,2
+84,Dudhwa National Park,Uttar Pradesh,wildlife_safari,"tiger spotting, swamp deer watching, forest trails","dudhwa reserve, sonanadi river",3,2
+85,Turtuk,Ladakh,baltistani_village,"culture walk, apricot farm visit, LOC viewpoint","turtuk village, baltistan museum",3,2
+86,Hemis Shukpachan,Ladakh,monastery_escape,"stargazing, homestay, gompa visits","hemis shukpachan monastery, sacred juniper forest",3,2
+87,Gurez Valley,Jammu And Kashmir,frontier_mountain,"hiking, trout fishing, local village experience","kishanganga river, habba khatoon peak",3,2
+88,Bangus Valley,Jammu And Kashmir,untouched_meadows,"meadow camping, forest walk, wildlife spotting","bangus meadows, shamsbari range",3,2
+89,Athirappilly Falls,Kerala,remote_nature,"Trekking through the rainforest, wildlife spotting, photography","Athirappilly Falls, Vazhachal Falls, Sholayar Forest",3,3
+90,Vagamon,Kerala,remote_nature,"Paragliding, trekking, boating","Vagamon Meadows, Thangal Para, Idukki Dam",3,3
+91,Alleppey Backwaters,Kerala,eco_tourism,"Houseboat cruise, kayaking, village visits","Alleppey, Kumarakom, Vembanad Lake",3,3
+92,Munnar,Kerala,remote_nature,"Tea garden tours, trekking, wildlife sanctuary visit","Eravikulam National Park, Mattupetty Dam, Anamudi Peak",3,3
+93,Bekal,Kerala,beach_retreat,"Beach relaxation, fort exploration, backwater cruise","Bekal Fort, Bekal Beach, Kappil Beach",3,3
+94,Wayanad,Kerala,remote_nature,"Trekking, wildlife safari, spice plantation tour","Chembra Peak, Edakkal Caves, Wayanad Wildlife Sanctuary",3,3
+95,Kodaikanal,Tamil Nadu,remote_nature,"Boating on the lake, cycling, trekking","Kodaikanal Lake, Coaker's Walk, Pillar Rocks",3,3
+96,Ooty,Tamil Nadu,remote_nature,"Toy train ride, botanical garden visit, tea plantation tour","Nilgiri Mountain Railway, Botanical Garden, Doddabetta Peak",3,3
+97,Coonoor,Tamil Nadu,remote_nature,"Trekking, tea factory visit, scenic viewpoints","Sim's Park, Dolphin's Nose, Lamb's Rock",3,3
+98,Yercaud,Tamil Nadu,remote_nature,"Boating on the lake, trekking, coffee plantation tour","Yercaud Lake, Emerald Lake, Lady's Seat",3,3
+99,Kanyakumari,Tamil Nadu,beach_religious,"Sunset viewing, temple visit, Vivekananda Rock Memorial","Kanyakumari Beach, Vivekananda Rock Memorial, Bhagavathy Amman Temple",3,3
+100,Rameshwaram,Tamil Nadu,religious_historical,"Temple visit, Agniteertham bath, Dhanushkodi exploration","Ramanathaswamy Temple, Agniteertham, Dhanushkodi",3,3
+101,Madurai,Tamil Nadu,cultural_historical,"Temple visit, palace exploration, local market tour","Meenakshi Amman Temple, Thirumalai Nayakkar Mahal, Gandhi Memorial Museum",3,3
+102,Pondicherry,Tamil Nadu,cultural_beach,"Beach relaxation, Auroville visit, French Quarter exploration","Promenade Beach, Auroville, French Quarter",3,3
+103,Mahabalipuram,Tamil Nadu,historical_beach,"Shore temple visit, five rathas exploration, beach activities","Shore Temple, Five Rathas, Arjuna's Penance",3,3
+104,Mysore,Karnataka,cultural_historical,"Palace visit, Chamundeshwari Temple, Brindavan Gardens","Mysore Palace, Chamundeshwari Temple, Brindavan Gardens",3,3
+105,Hampi,Karnataka,historical_ruins,"Temple exploration, rock climbing, Tungabhadra River activities","Virupaksha Temple, Vijaya Vittala Temple, Hampi Bazaar",3,3
+106,Coorg,Karnataka,remote_nature,"Coffee plantation tour, trekking, waterfall visit","Abbey Falls, Raja's Seat, Dubare Elephant Camp",3,3
+107,Gokarna,Karnataka,beach_religious,"Beach hopping, temple visit, yoga and meditation","Om Beach, Kudle Beach, Mahabaleshwar Temple",3,3
+108,Udupi,Karnataka,beach_religious,"Temple visit, beach relaxation, Malpe Beach activities","Sri Krishna Temple, Malpe Beach, Kaup Beach",3,3
+109,Mangalore,Karnataka,beach_cultural,"Beach activities, temple visit, local market exploration","Panambur Beach, Mangaladevi Temple, Central Market",3,3
+110,Hyderabad,Telangana,cultural_historical,"Charminar visit, Golconda Fort exploration, Ramoji Film City tour","Charminar, Golconda Fort, Ramoji Film City",3,3
+111,Warangal,Telangana,historical_ruins,"Fort exploration, Ramappa Temple visit, Thousand Pillar Temple","Warangal Fort, Ramappa Temple, Thousand Pillar Temple",3,3
+112,Vijayawada,Andhra Pradesh,religious_riverine,"Temple visit, Undavalli Caves exploration, Prakasam Barrage","Kanaka Durga Temple, Undavalli Caves, Prakasam Barrage",3,3
+113,Visakhapatnam,Andhra Pradesh,beach_hill,"Beach relaxation, Kailasagiri hill visit, Borra Caves exploration","RK Beach, Kailasagiri, Borra Caves",3,3
+114,Amaravati,Andhra Pradesh,religious_historical,"Buddhist Stupa visit, museum exploration, Krishna River activities","Amaravati Stupa, Amaravati Archaeological Museum, Krishna River",3,3
+115,Puri,Odisha,religious_beach,"Jagannath Temple visit, beach activities, Konark Sun Temple","Jagannath Temple, Puri Beach, Konark Sun Temple",3,3
+116,Bhubaneswar,Odisha,historical_temples,"Temple hopping, Nandankanan Zoo visit, Udayagiri and Khandagiri caves","Lingaraj Temple, Nandankanan Zoological Park, Udayagiri and Khandagiri Caves",3,3
+117,Cuttack,Odisha,riverine_cultural,"Barabati Fort exploration, river cruise, local market visit","Barabati Fort, Mahanadi River, Bali Yatra",3,3
+118,Rourkela,Odisha,industrial_nature,"Steel plant tour, Khandadhar Falls visit, Mandira Dam","Rourkela Steel Plant, Khandadhar Falls, Mandira Dam",3,3
+119,Sambalpur,Odisha,riverine_wildlife,"Hirakud Dam visit, Debrigarh Wildlife Sanctuary, local crafts","Hirakud Dam, Debrigarh Wildlife Sanctuary, Sambalpuri Textiles",3,3
+120,Kolkata,West Bengal,cultural_historical,"Victoria Memorial visit, Howrah Bridge, Dakshineswar Kali Temple","Victoria Memorial, Howrah Bridge, Dakshineswar Kali Temple",3,3
+121,Darjeeling,West Bengal,remote_nature,"Toy train ride, tea garden tour, Tiger Hill sunrise","Darjeeling Himalayan Railway, Tea Gardens, Tiger Hill",3,3
+122,Shantiniketan,West Bengal,cultural_artistic,"Visva-Bharati University visit, Rabindra Bhavan, local art","Visva-Bharati University, Rabindra Bhavan, Amar Kutir",3,3
+123,Sundarbans,West Bengal,eco_tourism,"Mangrove forest exploration, wildlife spotting, boat safari","Sundarbans National Park, Mangrove Forests, Sajnekhali Wildlife Sanctuary",3,3
+124,Digha,West Bengal,beach_retreat,"Beach relaxation, marine aquarium visit, Amarabati Park","Digha Beach, Marine Aquarium, Amarabati Park",3,3
+125,Gangtok,Sikkim,remote_nature,"Monastery visit, Nathula Pass, Tsomgo Lake","Rumtek Monastery, Nathula Pass, Tsomgo Lake",3,3
+126,Pelling,Sikkim,remote_nature,"Kanchenjunga views, Khecheopalri Lake, Rabdentse Ruins","Kanchenjunga, Khecheopalri Lake, Rabdentse Ruins",3,3
+127,Lachung,Sikkim,remote_nature,"Yumthang Valley, Zero Point, Shingba Rhododendron Sanctuary","Yumthang Valley, Zero Point, Shingba Rhododendron Sanctuary",3,3
+128,Ravangla,Sikkim,remote_nature,"Buddha Park, Temi Tea Garden, Ralong Monastery","Buddha Park, Temi Tea Garden, Ralong Monastery",3,3
+129,Namchi,Sikkim,religious_cultural,"Char Dham, Samdruptse Statue, Sai Mandir","Char Dham, Samdruptse Statue, Sai Mandir",3,3
+130,Guwahati,Assam,riverine_religious,"Kamakhya Temple, Brahmaputra River cruise, Umananda Island","Kamakhya Temple, Brahmaputra River, Umananda Island",3,3
+131,Kaziranga National Park,Assam,wildlife_ecotourism,"Jeep safari, elephant safari, bird watching","Kaziranga National Park",3,1
+132,Majuli Island,Assam,riverine_cultural,"Mishing village visit, Satra exploration, boat ride","Satra, Mishing Villages, Brahmaputra River",3,3
+133,Shillong,Meghalaya,remote_nature,"Elephant Falls, Umiam Lake, Don Bosco Museum","Elephant Falls, Umiam Lake, Don Bosco Museum",3,3
+134,Cherrapunjee,Meghalaya,remote_nature,"Living root bridges, Nohkalikai Falls, Mawsmai Cave","Living Root Bridges, Nohkalikai Falls, Mawsmai Cave",3,3
+135,Mawsynram,Meghalaya,remote_nature,"Mawsmai Cave, Krem Mawmluh, local village walks","Mawsmai Cave, Krem Mawmluh, Village Walks",3,3
+136,Tawang,Arunachal Pradesh,remote_nature_religious,"Tawang Monastery, Sela Pass, Bumla Pass","Tawang Monastery, Sela Pass, Bumla Pass",3,3
+137,Ziro Valley,Arunachal Pradesh,remote_nature_cultural,"Apatani village visit, Talley Valley, Meghna Cave Temple","Apatani Villages, Talley Valley, Meghna Cave Temple",3,3
+138,Itanagar,Arunachal Pradesh,remote_nature_cultural,"Ganga Lake, Ita Fort, Jawaharlal Nehru Museum","Ganga Lake, Ita Fort, Jawaharlal Nehru Museum",3,3
+139,Imphal,Manipur,remote_nature_cultural,"Loktak Lake, Kangla Fort, Ima Keithel","Loktak Lake, Kangla Fort, Ima Keithel",3,3
+140,Kohima,Nagaland,remote_nature_cultural,"Hornbill Festival, Dzukou Valley, Kohima War Cemetery","Hornbill Festival, Dzukou Valley, Kohima War Cemetery",3,3
+141,Aizawl,Mizoram,remote_nature_cultural,"Reiek Heritage Village, Durtlang Hills, Solomon's Temple","Reiek Heritage Village, Durtlang Hills, Solomon's Temple",3,3
+142,Agartala,Tripura,remote_nature_cultural,"Ujjayanta Palace, Neermahal, Unakoti","Ujjayanta Palace, Neermahal, Unakoti",3,3
+143,Jaipur,Rajasthan,cultural_historical,"Hawa Mahal, Amber Fort, City Palace","Hawa Mahal, Amber Fort, City Palace",3,3
+144,Udaipur,Rajasthan,remote_nature_cultural,"Lake Pichola, City Palace, Jag Mandir","Lake Pichola, City Palace, Jag Mandir",3,3
+145,Jodhpur,Rajasthan,remote_nature_cultural,"Mehrangarh Fort, Umaid Bhawan Palace, Jaswant Thada","Mehrangarh Fort, Umaid Bhawan Palace, Jaswant Thada",3,3
+146,Jaisalmer,Rajasthan,remote_nature_cultural,"Jaisalmer Fort, Sam Sand Dunes, Gadisar Lake","Jaisalmer Fort, Sam Sand Dunes, Gadisar Lake",3,3
+147,Pushkar,Rajasthan,remote_nature_cultural,"Pushkar Lake, Brahma Temple, Camel Safari","Pushkar Lake, Brahma Temple, Camel Safari",3,3
+148,Ajmer,Rajasthan,remote_nature_cultural,"Dargah Sharif, Adhai Din Ka Jhonpra, Ana Sagar Lake","Dargah Sharif, Adhai Din Ka Jhonpra, Ana Sagar Lake",3,3
+149,Ranthambore National Park,Rajasthan,wildlife_ecotourism,"Jeep safari, tiger spotting, bird watching","Ranthambore National Park",3,1
+150,Bharatpur,Rajasthan,wildlife_ecotourism,"Bird watching, Keoladeo Ghana National Park, Deeg Palace","Keoladeo Ghana National Park, Deeg Palace",3,2
+151,Agra,Uttar Pradesh,cultural_historical,"Taj Mahal, Agra Fort, Fatehpur Sikri","Taj Mahal, Agra Fort, Fatehpur Sikri",3,3
+152,Varanasi,Uttar Pradesh,religious_cultural,"Ghat activities, Kashi Vishwanath Temple, Sarnath","Ghats, Kashi Vishwanath Temple, Sarnath",3,3
+153,Lucknow,Uttar Pradesh,cultural_historical,"Bara Imambara, Chota Imambara, British Residency","Bara Imambara, Chota Imambara, British Residency",3,3
+154,Allahabad,Uttar Pradesh,religious_cultural,"Triveni Sangam, Allahabad Fort, Anand Bhavan","Triveni Sangam, Allahabad Fort, Anand Bhavan",3,3
+155,Mathura,Uttar Pradesh,religious_cultural,"Krishna Janmabhoomi, Dwarkadhish Temple, Govardhan Hill","Krishna Janmabhoomi, Dwarkadhish Temple, Govardhan Hill",3,3
+156,Haridwar,Uttarakhand,religious_cultural,"Ganga Aarti, Mansa Devi Temple, Har Ki Pauri","Ganga Aarti, Mansa Devi Temple, Har Ki Pauri",3,3
+157,Rishikesh,Uttarakhand,remote_nature_yoga,"Yoga retreats, river rafting, Laxman Jhula","Yoga Retreats, River Rafting, Laxman Jhula",3,3
+158,Dehradun,Uttarakhand,remote_nature_cultural,"Robber's Cave, Tapkeshwar Temple, Forest Research Institute","Robber's Cave, Tapkeshwar Temple, Forest Research Institute",3,3
+159,Nainital,Uttarakhand,remote_nature,"Naini Lake boating, Naina Devi Temple, Snow View Point","Naini Lake, Naina Devi Temple, Snow View Point",3,3
+160,Mussoorie,Uttarakhand,remote_nature,"Kempty Falls, Gun Hill, Mall Road","Kempty Falls, Gun Hill, Mall Road",3,3
+161,Shimla,Himachal Pradesh,remote_nature,"Toy train ride, Mall Road, Jakhu Temple","Kalka-Shimla Railway, Mall Road, Jakhu Temple",3,3
+162,Manali,Himachal Pradesh,remote_nature,"Beas River rafting, Rohtang Pass, Hadimba Devi Temple","Beas River, Rohtang Pass, Hadimba Devi Temple",3,3
+163,Dharamshala,Himachal Pradesh,remote_nature_cultural,"Dalai Lama Temple, Triund Trek, McLeod Ganj","Dalai Lama Temple, Triund Trek, McLeod Ganj",3,3
+164,Spiti Valley,Himachal Pradesh,remote_nature,"Monastery visits, Chandratal Lake, Kunzum Pass","Key Monastery, Chandratal Lake, Kunzum Pass",3,3
+165,Dalhousie,Himachal Pradesh,remote_nature,"Khajjiar Lake, Dainkund Peak, St. Francis' Church","Khajjiar Lake, Dainkund Peak, St. Francis' Church",3,3
+166,Amritsar,Punjab,religious_cultural,"Golden Temple, Jallianwala Bagh, Wagah Border","Golden Temple, Jallianwala Bagh, Wagah Border",3,3
+167,Chandigarh,Punjab,urban_planning,"Rock Garden, Sukhna Lake, Rose Garden","Rock Garden, Sukhna Lake, Rose Garden",3,3
+168,Ludhiana,Punjab,cultural_modern,"Punjab Agricultural University Museum, Phillaur Fort, Hardy's World","Punjab Agricultural University Museum, Phillaur Fort, Hardy's World",3,3
+169,Jalandhar,Punjab,historical_religious,"Devi Talab Mandir, Rangla Punjab Haveli, Science City","Devi Talab Mandir, Rangla Punjab Haveli, Science City",3,3
+170,Jammu,Jammu and Kashmir,religious_cultural,"Vaishno Devi Temple, Raghunath Temple, Bahu Fort","Vaishno Devi Temple, Raghunath Temple, Bahu Fort",3,3
+171,Srinagar,Jammu and Kashmir,remote_nature_cultural,"Dal Lake, Mughal Gardens, Shankaracharya Temple","Dal Lake, Mughal Gardens, Shankaracharya Temple",3,3
+172,Leh,Ladakh,remote_nature_cultural,"Leh Palace, Shanti Stupa, Pangong Tso","Leh Palace, Shanti Stupa, Pangong Tso",3,3
+173,Nubra Valley,Ladakh,remote_nature,"Diskit Monastery, Hunder Sand Dunes, Khardung La Pass","Diskit Monastery, Hunder Sand Dunes, Khardung La Pass",3,3
+174,Kargil,Ladakh,remote_nature_historical,"Kargil War Memorial, Suru Valley, Mulbekh Monastery","Kargil War Memorial, Suru Valley, Mulbekh Monastery",3,3
+175,Delhi,Delhi,cultural_historical,"Red Fort, Qutub Minar, India Gate","Red Fort, Qutub Minar, India Gate",3,3
