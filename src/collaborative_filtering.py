@@ -1,13 +1,14 @@
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
-def create_user_location_matrix(reviews_df):
+def create_user_location_matrix(reviews_df, users_df=None):
     interaction_matrix = reviews_df.pivot_table(
         index='user_id',
         columns='location_id',
         values='rating'
     ).fillna(0)
     return interaction_matrix
+
 
 def get_top_k_similar_users(interaction_matrix, target_user_id, k=5):
     if target_user_id not in interaction_matrix.index:
